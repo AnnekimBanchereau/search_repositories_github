@@ -4,7 +4,7 @@ Projet réalisé en autonomie dans le cadre de la formation O'Clock
 
 ![resultat](./resultat.png)
 
-**Objectif**
+### Objectif
 
 Réaliser un annuaire permettant de rechercher des repos GitHub
 
