@@ -1,23 +1,24 @@
 # Github API
 
-Petit projet réalisé en autonomie dans le cadre de la formation O'Clock
+Projet réalisé en autonomie dans le cadre de la formation O'Clock
 
 ![resultat](./resultat.png)
 
 **Objectif**
 
-Faire un annuaire qui permette de chercher des repos sur github
+Réaliser un annuaire permettant de rechercher des repos GitHub
 
 ### Techno
 
 React
 Semantic UI
+API : https://api.github.com/search/repositories?q=
 
 ### Fonctionnalités
 
 * Barre de recherche
 
-* Un message affiche le nombre de résultat obtenus ou les erreurs (exemple une erreur s'affiche si l'on fait une recherche sans valeur)
+* Un message qui affiche le nombre de résultat obtenus ou les erreurs (exemple une erreur s'affiche si l'on fait une recherche sans valeur)
 
 * 9 résultats maximums s'affichent sur la page
 
