@@ -1,0 +1,9 @@
+@use 'src/styles/vars';
+
+.app {
+  width: 80%;
+  margin: 0 auto;
+  padding: 0 2rem 3*vars.$gutter 2rem;
+  background-color: #ECF0F1;
+  min-height: 100vh;
+}

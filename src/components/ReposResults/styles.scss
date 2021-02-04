@@ -1,0 +1,15 @@
+@use 'src/styles/vars';
+
+.ui.three.cards {
+  margin-bottom: vars.$gutter;
+}
+
+.content{
+  overflow-wrap: anywhere;
+}
+
+@media only screen and (max-width: 767px){
+  .repositories {
+    padding-top: 1rem;
+  }
+}
