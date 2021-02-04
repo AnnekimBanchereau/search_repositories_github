@@ -10,9 +10,11 @@ Réaliser un annuaire permettant de rechercher des repos GitHub
 
 ### Techno
 
-React
-Semantic UI
-API : https://api.github.com/search/repositories?q=
+* React
+
+* Semantic UI
+
+* API : https://api.github.com/search/repositories?q=
 
 ### Fonctionnalités
 
