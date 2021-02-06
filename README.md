@@ -1,6 +1,6 @@
 # Github API
 
-Projet réalisé en autonomie dans le cadre de la formation O'Clock
+Projet réalisé en autonomie dans le cadre de ma formation développement web chez O'Clock
 
 ![resultat](./resultat.png)
 
