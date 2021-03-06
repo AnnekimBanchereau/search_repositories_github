@@ -1,8 +1,9 @@
 # Github API
 
-Projet réalisé en autonomie dans le cadre de ma formation développement web chez O'Clock
+<p>Projet réalisé en autonomie dans le cadre de ma formation développement web chez O'Clock</p>
+<p>https://searchreposgithub-annekim.netlify.app</p>
 
-![resultat](./resultat.png)
+<img src="./resultat.png" alt="resultat" width="500"/>
 
 ### Objectif
 
